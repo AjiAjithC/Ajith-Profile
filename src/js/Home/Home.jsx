@@ -32,8 +32,8 @@ export default function Home() {
                </div>
 
                <div className=' border-borderPrimary rounded-2xl flex flex-1 justify-center items-center sm:mb-0 mb-5'>
-                  {/* <img src={myImg} className='w-100 h-100 md:w-full md:h-full' /> */}
                   <img src={myImg} className='h-90 lg:h-140 ' />
+                  {/* <img src={myImg} className='w-100 h-100 md:w-full md:h-full' /> */}
                </div>
 
             </div>
