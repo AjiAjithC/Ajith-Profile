@@ -51,7 +51,7 @@ export default function AboutMe() {
 
 
    return (
-      <div className='bg-white my-20'>
+      <div id='ABOUT ME' className='bg-white my-20'>
 
          <div className=' max-w-[800px] p-2 md:max-w-[1000px] lg:max-w-[1150px] xl:max-w-[1250px]  mx-auto flex flex-col p-5 '>
             <div className=''>

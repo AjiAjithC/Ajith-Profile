@@ -3,7 +3,7 @@ import myImg from "../../assets/myImg.png"
 import { FaAngleRight, FaArrowRight, FaFacebookF, FaInstagram, FaLinkedinIn, FaWhatsapp } from 'react-icons/fa'
 export default function Home() {
    return (
-      <div className='bg-LightPrimary pt-10 pb-15'>
+      <div id='HOME' className='bg-LightPrimary pt-10 pb-15'>
 
          <div className=' max-w-[800px] p-2 md:max-w-[1000px] lg:max-w-[1150px] xl:max-w-[1250px]  mx-auto flex flex-col p-5 '>
             <div className='flex flex-col-reverse sm:flex-row '>
