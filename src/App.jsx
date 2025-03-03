@@ -5,7 +5,7 @@ import Header from './js/Header/Header'
 import Home from './js/Home/Home'
 import AboutMe from './js/AboutMe/AboutMe'
 import MyExperience from './js/MyExperience/MyExperience'
-import Project from './js/Project/Project'
+// import Project from './js/Project/Project'
 import Contact from './js/Contact/Contact'
 
 function App() {
@@ -17,7 +17,7 @@ function App() {
       <Home />
       <AboutMe />
       <MyExperience />
-      <Project />
+      {/* <Project /> */}
       <Contact/>
 
       {/* <div className='h-100' /> */}
